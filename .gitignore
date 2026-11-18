@@ -1,0 +1,10 @@
+node_modules/
+dist/
+target/
+project/target/
+.idea/
+.vscode/
+*.log
+data/incoming/
+data/processed/
+results/
